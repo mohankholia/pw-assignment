@@ -1,0 +1,99 @@
+Q1 >.What is statistics?
+Answer: 
+Statistics is the branch of mathematics that deals with collecting, analyzing, interpreting, and presenting data. It is a science that involves the use of quantitative methods to gather and analyze information from a sample population in order to make inferences about the larger population from which the sample was drawn. Statistics is used in a wide range of fields, including economics, finance, engineering, social sciences, medicine, and many others. It provides methods for summarizing and describing data, testing hypotheses, and making predictions about future events or trends. Some of the key concepts in statistics include probability theory, descriptive statistics, inferential statistics, and statistical modeling.
+Q2. Define the different types of statistics and give an example of when each type might be used.
+Answer:
+ There are two main types of statistics: descriptive statistics and inferential statistics.
+1.	Descriptive statistics: Descriptive statistics are used to summarize and describe the characteristics of a dataset. These statistics provide information about the central tendency, variability, and distribution of a dataset. Some common descriptive statistics include mean, median, mode, range, variance, and standard deviation.
+Example: Suppose we have data on the heights of a group of people. We can use descriptive statistics to calculate the mean height, the range of heights, and the standard deviation of heights. These statistics would give us a summary of the characteristics of the dataset.
+2.	Inferential statistics: Inferential statistics are used to make inferences about a population based on data collected from a sample of that population. These statistics provide information about the likelihood of certain outcomes or events occurring in the population.
+Example: Suppose we want to know the average salary of all employees in a company, but it is not feasible to collect data on every employee. We can select a random sample of employees and use inferential statistics to estimate the average salary of the entire population based on the data from the sample.
+This would involve calculating confidence intervals and conducting hypothesis tests to determine the accuracy of our estimates.
+
+
+Q3. What are the different types of data and how do they differ from each other? Provide an example of
+each type of data.
+Answer:
+1.Qualitative Data
+Qualitative data is used to represent some characteristics or attributes of the data. The facts and figures depicted by the qualitative data cannot be computed. These properties reflect observable attributes. These are non-numerical in nature. The qualitative data characteristics are exploratory on a larger end than being conclusive in nature. For instance, data on attributes such as honesty, loyalty, wisdom, and creativity for a set of persons defined can be considered as qualitative data. 
+(i)	Nominal data: Nominal data are categorical data that cannot be ordered or ranked. They are used to classify data into distinct categories based on a characteristic or attribute. Examples of nominal data include gender, race, or political affiliation.
+(ii)	Ordinal data: Ordinal data are categorical data that can be ordered or ranked based on their level of magnitude. The categories have a natural order or ranking, but the distance between categories may not be uniform. Examples of ordinal data include educational levels (elementary, high school, college, graduate), or rating scales (poor, fair, good, excellent).
+2.Quantitative Data
+Quantitative data can be measured and is not just observable. The measurement of data is numerically recorded and represented. Calculations and interpretations can then be performed on the obtained results. Numerical data is indicated by quantitative data. For instance, data can be recorded about how many users found a product satisfactory in terms of the collected rating, and therefore, an overall product review can be generated. 
+Examples:
+•	Daily temperature
+•	Price
+•	Weights
+•	Income
+(i).Discrete Data
+Discrete data refers to the data values which can only attain certain specific values. Discrete data can’t attain a range of values. Discrete data can be represented using bar charts. For instance, ratings of a product made by the users can only be in discrete numbers. 
+Examples:
+•	The number of students in a class,
+•	The number of chips in a bag,
+•	The number of stars in the sky
+(ii).Continuous Data 
+Continuous Data can contain values between a certain range that is within the highest and lowest values. The corresponding difference between the highest and lowest value of these intervals can be termed as the range of data. Continuous data can be tabulated in what is called a frequency distribution. The frequency distribution table can be computed for the range type of data. It can also be depicted using histograms. For example, the heights of the students in the class can be largely varying in nature, therefore, they can be divided into ranges to summarise the data. 
+Examples:
+•	Height and weight of a student,
+•	Daily temperature recordings of a place
+•	Wind speed measurement
+Q4. Categorise the following datasets with respect to quantitative and qualitative data types:
+(i) Grading in exam: A+, A, B+, B, C+, C, D, E
+(ii) Colour of mangoes: yellow, green, orange, red
+(iii) Height data of a class: [178.9, 179, 179.5, 176, 177.2, 178.3, 175.8,...]
+(iv) Number of mangoes exported by a farm: [500, 600, 478, 672, ...]
+answer:
+(i)Qualitative data
+(ii)Qualitative data
+(iii)Quantitative data
+(iv)Quantitative data
+
+Q5. Explain the concept of levels of measurement and give an example of a variable for each level.
+Answer
+Levels of measurement, also known as scales of measurement, refer to the different ways in which variables can be measured or categorized. There are four commonly recognized levels of measurement: nominal, ordinal, interval, and ratio.
+1.	Nominal level of measurement: Nominal level variables are categorical in nature, meaning that they can be put into distinct groups or categories. However, they do not have any inherent order or ranking. Examples of nominal level variables include gender (male, female), race (Caucasian, African-American, Hispanic, Asian), or religion (Christian, Jewish, Muslim).
+2.	Ordinal level of measurement: Ordinal level variables are also categorical in nature, but they can be ordered or ranked. The categories or groups have a natural order, but the difference between categories is not uniform. Examples of ordinal level variables include educational levels (elementary, high school, college, graduate), income levels (low, middle, high), or survey responses (strongly disagree, disagree, neutral, agree, strongly agree).
+3.	Interval level of measurement: Interval level variables are numerical in nature and have a fixed measurement scale, but they do not have a true zero point. This means that the difference between values is meaningful, but ratios are not. Examples of interval level variables include temperature measured in Celsius or Fahrenheit, or years on a calendar.
+4.	Ratio level of measurement: Ratio level variables are also numerical in nature and have a fixed measurement scale, but they do have a true zero point. This means that ratios between values are meaningful. Examples of ratio level variables include height, weight, or income.
+Example: Suppose we want to measure a variable such as "weight" using the four levels of measurement:
+•	Nominal level: weight categories such as "underweight", "normal weight", or "overweight".
+•	Ordinal level: weight categories that can be ordered, such as "underweight", "normal weight", "overweight", or "obese".
+•	Interval level: weight measured in kilograms or pounds
+•	Ratio level: weight measured in kilograms or pounds with a true zero point of 0, meaning that a person with a weight of 0 kg or 0 lbs has no weight.
+
+Q6. Why is it important to understand the level of measurement when analyzing data? Provide an example to illustrate your answer.
+Answer
+Understanding the level of measurement is important when analyzing data because it helps determine the appropriate statistical tests to use and the type of conclusions that can be drawn from the data. Different types of data have different levels of measurement, which can impact the type of analysis that is appropriate.
+There are four levels of measurement: nominal, ordinal, interval, and ratio. Nominal data is used to name or categorize things and is the lowest level of measurement. Ordinal data is used to rank things in order, but the difference between each rank is not necessarily equal. Interval data has equal differences between values, but there is no true zero point. Ratio data is the highest level of measurement and has equal differences between values and a true zero point.
+An example of the importance of understanding the level of measurement can be seen in a study that measures the level of satisfaction with a new product among customers. If the data collected is nominal, meaning that customers are simply categorized as satisfied or unsatisfied, then statistical tests that assume equal distances between categories, such as t-tests, would not be appropriate. However, if the data collected is interval or ratio, such as a satisfaction score on a 1-10 scale, then t-tests would be appropriate.
+Another example can be a study that measures the effectiveness of a new medication for treating a disease. If the data collected is nominal, such as whether a patient improved or not, then statistical tests that assume equal distances between categories would not be appropriate. However, if the data collected is ratio, such as measuring the percentage of reduction in the size of the tumor, then statistical tests such as regression analysis would be more appropriate.
+Q7. How nominal data type is different from ordinal data type.
+Answer
+Nominal and ordinal data are two types of categorical data. The main difference between them is the level of measurement and the amount of information conveyed by the categories.
+Nominal data is the lowest level of measurement and is used to classify or name things without any order or rank. The categories are distinct and mutually exclusive, and there is no inherent order or sequence to them. Examples of nominal data include gender, race, nationality, and religion. Nominal data can be coded with numbers, but the numbers do not have any inherent meaning or value beyond identifying the different categories.
+On the other hand, ordinal data is used to rank or order things in a meaningful way. The categories have an inherent order or sequence to them, and the distance or difference between the categories may not be equal. Examples of ordinal data include rankings in sports, levels of education, and socioeconomic status. Ordinal data can also be coded with numbers, but the numbers represent the relative order or position of the categories rather than a meaningful difference between them.
+Q8. Which type of plot can be used to display data in terms of range?
+Answer
+A type of plot that can be used to display data in terms of range is a box plot, also known as a box-and-whisker plot.
+A box plot displays the distribution of a set of continuous data by dividing the data into quartiles, with the box representing the middle 50% of the data (i.e., the interquartile range), and the whiskers representing the range of the data outside the box. The line inside the box represents the median of the data.
+In a box plot, the range of the data is displayed by the length of the whiskers, which extend to the minimum and maximum values within a certain range of the data (often defined as 1.5 times the interquartile range). Any data points outside of this range are shown as individual points or outliers.
+Box plots are useful for comparing the distribution of data between different groups or for visualizing changes in the distribution of data over time. They can also be used to identify potential outliers or extreme values in the data.
+
+Q9. Describe the difference between descriptive and inferential statistics. Give an example of each type of statistics and explain how they are used.
+Answer
+Descriptive statistics and inferential statistics are two branches of statistics that serve different purposes in analyzing and interpreting data.
+Descriptive statistics involves the use of numerical and graphical methods to summarize and describe the key features of a dataset. This includes measures of central tendency, such as mean, median, and mode, as well as measures of variability, such as range, variance, and standard deviation. Descriptive statistics are used to provide a clear and concise summary of a dataset, and they are particularly useful when the data set is large and complex.
+
+For example, suppose a researcher wants to describe the age distribution of students in a college. They can use descriptive statistics such as the mean age, the median age, and the standard deviation to summarize the data and provide a clear picture of the age distribution.
+
+Inferential statistics, on the other hand, involves using sample data to make inferences or draw conclusions about a population. This involves using probability theory and statistical models to analyze the data and test hypotheses. Inferential statistics are used to determine whether the results observed in a sample are likely to be representative of the larger population from which the sample was drawn.
+For example, suppose a researcher wants to test whether a new medication is effective in reducing blood pressure. They can conduct a randomized controlled trial where a sample of patients is randomly assigned to receive either the medication or a placebo. The researcher can then use inferential statistics to analyze the data and determine whether the difference in blood pressure between the two groups is statistically significant, and whether the medication is likely to be effective for the larger population of patients with high blood pressure.
+
+Q10. What are some common measures of central tendency and variability used in statistics? Explainhow each measure can be used to describe a dataset.
+Answer
+Measures of central tendency and variability are used in statistics to describe a dataset by summarizing the distribution of its values. The most common measures of central tendency are the mean, median, and mode. The most common measures of variability are the range, variance, and standard deviation.
+Mean: The mean is the average of all the values in a dataset. It is calculated by summing up all the values and dividing by the total number of values. The mean is a useful measure for describing datasets with a normal distribution or when there are no extreme outliers.
+
+Median: The median is the middle value in a dataset when the values are ordered from smallest to largest. It is a useful measure for describing datasets with extreme outliers, as it is not affected by these values.
+
+Mode: The mode is the most frequent value in a dataset. It is useful for describing datasets with a skewed distribution or when there are multiple peaks in the distribution.
